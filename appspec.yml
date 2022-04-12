@@ -7,10 +7,10 @@ files:
 hooks: 
   BeforeInstall: 
     - 
-      location: scripts/depend
+      location: Scripts/depend
       runs: root
       timeout: 300
     - 
-      location: scripts/start
+      location: Scripts/start
       runs: root
       timeout: 300
