@@ -3,7 +3,7 @@ OS: linux
 files: 
   - 
     destination: /var/www/html/
-    source: /index.html
+    source: /Index.html
 hooks: 
   BeforeInstall: 
     - 
